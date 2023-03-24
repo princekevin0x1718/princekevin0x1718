@@ -1,5 +1,5 @@
 <h1 align="center">Senior Full-Stack and Blockchain Developer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superdev0527&label=Profile%20views&color=0e75b6&style=flat" alt="superdev0527" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=superdev0527&label=Profile%20views&color=0e75b6&style=flat" alt="palsev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superdev0527" alt="superdev0527" /></a> </p>
 
@@ -7,7 +7,7 @@
     <br>
 <h3>Who can break these counter?</h3>
     <br>
-    <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1387399c8c582387cb47287a3fc064282cbf0e29b8baefacd59fbd6e52758e62/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5368696e672d486f2f636f756e742e737667"></p>
+    <p dir="auto"></p>
 </div>
  
 

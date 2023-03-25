@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
-<p align ="center">🇪🇪🌹🍑🥂💻⌨️🌷🌻 Welcome to Palsev's🌻</p>
+<p align ="center">🌻 Welcome to Palsev's🌻</p>
 
 I am a Full-stack developer focused on ReactJS and 🧑‍🎓Bachelor's degree in Computer Science.
 For the last 7 years, I've been working as a 🌐web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.

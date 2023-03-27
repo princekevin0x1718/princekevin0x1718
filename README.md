@@ -15,13 +15,13 @@
 </p>
 I am a Full-stack and Blockchain developer with 🧑‍🎓Bachelor's degree in Computer Science focused on React&Solidity with 5 years of experience React and 3 years of experience blockchain.
 For the last 5 years, I've been working as a web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.
-<p>📌Experience
-- DEX, Swap functions and Bridge
-- DeFi development(token staking, farming, bonding)
-- Dapp stack (Web3.js / Ethers.js)
-- NFT Marketplace, NFT staking
-- Api handling (Moralis)
-- Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)
+<p>📌Experience</br>
+- DEX, Swap functions and Bridge</br>
+- DeFi development(token staking, farming, bonding)</br>
+- Dapp stack (Web3.js / Ethers.js)</br>
+- NFT Marketplace, NFT staking</br>
+- Api handling (Moralis)</br>
+- Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
 </p>
 🔗 How to reach me: palsev0415@gmail.com
 

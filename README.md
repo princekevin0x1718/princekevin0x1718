@@ -11,7 +11,7 @@
   </p>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Hello!+I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack;Welcome+to+Palsev's+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Hello!+I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack  ;Welcome+to+Palsev's+!">
 </p>
 
 I am a Full-stack developer focused on ReactJS and 🧑‍🎓Bachelor's degree in Computer Science.

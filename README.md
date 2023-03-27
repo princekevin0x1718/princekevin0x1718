@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+Palsev's+!;I'+am+a+fullstack+blockchain+developer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack+++">
 </p>
-My name is Palsev Nii from Estonia and I am a Full-stack and Blockchain developer with Bachelor's degree in Computer Science focused on React&Solidity with 5 years of experience React and 3 years of experience blockchain.
+I am a Full-stack and Blockchain developer with Bachelor's degree in Computer Science focused on React&Solidity with 5 years of experience React and 3 years of experience blockchain.
 
 I am a Full-stack and Blockchain developer with 🧑‍🎓Bachelor's degree in Computer Science focused on React&Solidity with 5 years of experience React and 3 years of experience blockchain.
 For the last 5 years, I've been working as a web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.

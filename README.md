@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+Palsev's+!;I'+am+a+fullstack+blockchain+developer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack+++">
 </p>
 I am a Full-stack and Blockchain developer with a 🧑‍🎓Bachelor's degree in Computer Science focused on React&Solidity having 5 years of experience. 
-For the last 5 years, I've been working as a web developer and provide support for all the stages of the development life cycle including: development, deployment, testing and maintenance.
+For the last 5 years, I've been working as a blockchain developer and support for all the stages of the development life cycle including: development, deployment, testing and maintenance.
 <p>📌Experience</br>
 - DEX, Swap functions and Bridge</br>
 - DeFi development(token staking, farming, bonding)</br>
@@ -23,7 +23,7 @@ For the last 5 years, I've been working as a web developer and provide support f
 - Api handling (Moralis)</br>
 - Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
 </p>
-🔗 How to reach me: palsev0415@gmail.com
+🔗 How to reach me: palsev04157@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

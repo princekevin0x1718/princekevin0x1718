@@ -23,7 +23,6 @@ For the last 5 years, I've been working as a blockchain developer and support fo
 - Api handling (Moralis)</br>
 - Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
 </p>
-🔗 How to reach me: palsev04157@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

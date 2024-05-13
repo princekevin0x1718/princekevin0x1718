@@ -2,11 +2,10 @@
 
 <p align = 'center'>
   <img align='center' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-  <img align='center' src="[https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932](https://drive.google.com/file/d/1LAlXg7TpbnIPDXl5ejmgM-Ssm20kFGaE/view?usp=sharing)" width="230">
   <p align="center">
-    <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
+    <a href="/" alt="Users" title="Repo users">
       <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
-    <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <a href="/"Dev Pro Tips Discussion & Support Server">
       <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>

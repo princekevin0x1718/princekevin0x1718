@@ -62,11 +62,9 @@ For the last 5 years, I've been working as a blockchain developer and support fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 </p> 
 
-![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
-
+![](https://komarev.com/ghpvc/?username=princekevin0x1718&color=brightgreen)
 
 - ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
 - 🌱 Built several significant projects based on Bitcoin, Solana network 

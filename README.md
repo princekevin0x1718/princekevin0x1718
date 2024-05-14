@@ -1,7 +1,7 @@
 
 
 <p align = 'center'>
-  <img align='center' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+  <img align='center' src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://brown-cautious-bug-151.mypinata.cloud/ipfs/QmPsQBuSacxMYKgtHC6AgQ1GAW5Ps9tK9pai7GYgatQrVR)" width="230">
   <p align="center">
     <a href="/" alt="Users" title="Repo users">
       <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>

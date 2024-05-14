@@ -64,7 +64,20 @@ For the last 5 years, I've been working as a blockchain developer and support fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 </p> 
-With Following~⬇️
+
+![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
+
+
+- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
+- 🌱 Built several significant projects based on Bitcoin, Solana network 
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2024 Goals: Building Rune markerplace
+      
+---
+### Languages and Tools:
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
@@ -99,3 +112,5 @@ With Following~⬇️
 ![CI/CD](https://img.shields.io/badge/CI/CD-0170FE?style=flat-square&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

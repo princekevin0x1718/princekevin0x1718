@@ -13,9 +13,9 @@
 ![](https://komarev.com/ghpvc/?username=princekevin0x1718&color=brightgreen)
 
 - ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, Ton, Tron, etc).
-- 🌱 Built several significant projects based on Bitcoin, Solana network 
-- 💻 Wanna stay fast learner.
-- 🥅 2024 Goals: Building Rune markerplace
+- 🌱 Built several significant projects based on Bitcoin, Solana, Ton network nowadays.
+- 💻 We want to retain fast learners.
+- 🥅 2024 Goals: Building Awesome Rust project, AI Bot, Rune markerplace.
       
 ---
 ### Languages and Tools:

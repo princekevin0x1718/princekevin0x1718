@@ -63,6 +63,8 @@ For the last 5 years, I've been working as a blockchain developer and support fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+</p> 
+With Following~⬇️
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
@@ -96,5 +98,4 @@ For the last 5 years, I've been working as a blockchain developer and support fo
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI/CD-0170FE?style=flat-square&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-</p> 
-With Following~⬇️
+
